@@ -1,0 +1,7 @@
+
+# Project Visualizations
+
+This folder contains visualizations from the 2024 ACS PUMS analysis.
+
+- `housing_burden_by_tenure.png`: Person-weighted housing-cost burden rates by housing tenure.
+- `housing_burden_by_income.png`: Person-weighted housing-cost burden rates across personal-income groups and housing tenure.
